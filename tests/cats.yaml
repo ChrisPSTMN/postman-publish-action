@@ -7,7 +7,7 @@ info:
 paths:
   /cats:
     get:
-      summary: Get a list of all cats. Except Orange cats cause are not smart :cat:
+      summary: Get a list of all cats. Except Orange cats cause they are not smart 
       responses:
         '200':
           description: A list of cats.
